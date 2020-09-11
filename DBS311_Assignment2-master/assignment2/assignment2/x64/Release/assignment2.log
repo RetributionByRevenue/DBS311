@@ -1,0 +1,8 @@
+﻿  DBS311_ASS2_NHAN.cpp
+  Generating code
+d:\seneca\dbs311\ass2\assignment2\assignment2\dbs311_ass2_nhan.cpp(144): warning C4715: 'addToCart': not all control paths return a value
+  2 of 83 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  assignment2.vcxproj -> D:\Seneca\DBS311\ass2\assignment2\x64\Release\assignment2.exe

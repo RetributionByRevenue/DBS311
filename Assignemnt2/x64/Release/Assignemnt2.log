@@ -1,0 +1,8 @@
+﻿  app.cpp
+  Generating code
+A:\DBS311\Assignemnt2\app.cpp(114): warning C4715: 'addToCart': not all control paths return a value
+  7 of 81 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignemnt2.vcxproj -> A:\DBS311\Assignemnt2\x64\Release\Assignemnt2.exe
